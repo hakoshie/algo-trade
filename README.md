@@ -1,3 +1,6 @@
+Instead of IEX Cloud API, I used yfinance library to get data.
+I got data of consituents of S&P500 from https://github.com/datasets/s-and-p-500-companies/blob/master/data/constituents.csv.
+
 # Algorithmic Trading in Python
 
 This repository
